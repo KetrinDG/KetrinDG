@@ -1,3 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&repeat=false&width=1050&height=50&lines=Hi!+My+name+is+%F0%9F%90%BAKateryna %2FDehtiarova%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
+=========================================================================================================================================
+
+<div align="center">
+  <img src="img/wolf.png" alt="wolf">
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=E60000&background=001872E2&center=true&vCenter=true&width=1050&height=35&lines=%F0%9F%92%BBPython%2C+C%2B%2B%2developer from Ukraine%F0%9F%96%A5)](https://git.io/typing-svg)
+-------------------------------------
+
 <h3 align="center">Python developer from Ukraine</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
