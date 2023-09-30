@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&duration=10000&pause=1000&color=F72C0F&background=110CFF00&center=true&vCenter=true&multiline=true&width=1000&lines=Hello!+My+name+is+Kateryna+Dehtiarova)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&duration=10000&pause=1000&color=25F70B&background=110CFF00&center=true&vCenter=true&multiline=true&width=1000&lines=I'm+a+Python+developer+from+Ukraine+%F0%9F%90%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&duration=10000&pause=1000&color=25F70B&background=110CFF00&center=true&vCenter=true&multiline=true&width=1000&lines=I'm+a+Python+%F0%9F%90%8D+developer+from+Ukraine+%F0%9F%94%86)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
