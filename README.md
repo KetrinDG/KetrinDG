@@ -12,15 +12,6 @@
 ### Find me on Social Media
 <p align="center">
  <a target="_blank" href="https://facebook.com/glamourycat"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"></a>
-<a target="_blank" href="https://linkedin.com/in/EliusHHimel"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
-<a target="_blank" href="https://youtube.com/HmEliusHossainHimel"><img width="50px" src="https://i.ibb.co/R0f8dFN/Youtube.png" alt="Youtube" border="0"></a>
-<a target="_blank" href="https://twitter.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a>
-<a target="_blank" href="https://instagram.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
-<a target="_blank" href="https://pinterest.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/q9NZdzG/Pinterest.png" alt="Pinterest" border="0"></a>
- </p>
-
-<p align="center">
- <a target="_blank" href="https://facebook.com/glamourycat"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"></a>
 <a target="_blank" href="https://linkedin.com/in/kateryna-dehtiarova-885248175"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 <a target="_blank" href="https://instagram.com/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
  </p>
