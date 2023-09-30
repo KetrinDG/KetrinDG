@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&duration=10000&pause=1000&color=25F70B&background=110CFF00&center=true&vCenter=true&multiline=true&width=1000&lines=I'm+a+Python+%F0%9F%90%8D+developer+from+Ukraine+%F0%9F%94%86)](https://git.io/typing-svg)
 
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
 <h3 align="left">Connect with me:</h3>
