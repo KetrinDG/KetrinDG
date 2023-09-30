@@ -31,16 +31,6 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/KetrinDG" target="_blank"><img align="center" src="https://github.com/fluidicon.png" alt="lead" height="30" width="30" /></a>
-<a href="https://www.facebook.com/glamourycat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vlodya17" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kateryna-dehtiarova-885248175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lead" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Learning Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
