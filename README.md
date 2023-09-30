@@ -16,12 +16,13 @@
 <a target="_blank" href="https://instagram.com/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
  </p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" />
   <a href="https://github.com/KetrinDG?tab=following">
     <img alt="GitHub subscribers" title="Subscribe to my GitHub channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://github.com/KetrinDG">
-    <img alt="lead" title="GitHub views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/KetrinDG?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/EliusHHimel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/KetrinDG?tab=followers">
