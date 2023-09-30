@@ -20,17 +20,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
 
-<p align="center">
-  <a href="https://github.com/KetrinDG?tab=following">
-    <img alt="GitHub subscribers" title="Subscribe to my GitHub channel" src="https://custom-icon-badges.herokuapp.com/github/following/KetrinDG?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://github.com/EliusHHimel?tab=repositories&sort=stargazers">
-  <a href="https://github.com/KetrinDG?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/KetrinDG?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/KetrinDG?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KetrinDG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-
 
 <h3 align="left">Learning Languages and Tools:</h3>
 <p align="left"> 
