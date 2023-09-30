@@ -9,7 +9,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### Find me on Social Media
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Find+me+on+Social+Media)](https://git.io/typing-svg)
 <p align="center">
  <a target="_blank" href="https://facebook.com/glamourycat"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"></a>
 <a target="_blank" href="https://linkedin.com/in/kateryna-dehtiarova-885248175"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
