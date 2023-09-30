@@ -17,6 +17,7 @@
  </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" />
   <a href="https://github.com/KetrinDG?tab=following">
     <img alt="GitHub subscribers" title="Subscribe to my GitHub channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://github.com/KetrinDG">
