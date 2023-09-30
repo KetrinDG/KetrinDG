@@ -23,8 +23,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Learning+Languages+and+Tools%3A)](https://git.io/typing-svg)
 
-<h3 align="left">Learning Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="90" height="30"/> </a> 
