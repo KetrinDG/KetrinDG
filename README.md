@@ -38,8 +38,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Databases+I+Use%3A)](https://git.io/typing-svg)
 
+
+
 <p align="center">
+  <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
   <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/C8Tij3iox3coBSqVWE/200.webp" width="100">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Tools+I+Use%3A)](https://git.io/typing-svg)
@@ -49,13 +53,13 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/THHeqBcZnprb9zJNnO/200.webp" width="100">
 </p>
 
 
 
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="90" height="30"/> </a> 
+
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/flask.png?w=400&ssl=1" alt="flask" width="50" height="30"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="50" height="30"/> </a> 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" width="50" height="30"/> </a> 
@@ -64,14 +68,11 @@
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" width="50" height="30"/> </a> 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" width="50" height="30"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" width="50" height="30"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" width="50" height="30"/></a>
 <a href="https://www.tutorialspoint.com/postgresql/postgresql_python.htm" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="50" height="30"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="50" height="30"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="60" height="30"/></a>
+ 
+
 <a href="https://app.datacamp.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp" width="60" height="30"/> </a>
 </p>
 
