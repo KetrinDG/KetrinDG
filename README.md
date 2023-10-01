@@ -26,23 +26,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Languages+I+Use%3A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200w.webp" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/l3vRfNA1p0rvhMSvS/200w.webp" width="100">
+  <img src="https://media3.giphy.com/media/E4kjYvAnTjh45ML3TO/200w.webp" width="100">
+  <img src="https://media3.giphy.com/media/ObGednmgVyuihFl1cg/200w.webp" width="100">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Libraries+%26+Frameworks+I+Use%3A)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/ZvU5gJBGbAwZW49M3f/200w.webp" width="100">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Databases+I+Use%3A)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Tools+I+Use%3A)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://i.giphy.com/media/cYU6YcPE5YlJxh6otp/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="100">
 </p>
-
-
 
 
 
