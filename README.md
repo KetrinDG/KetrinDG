@@ -35,11 +35,11 @@
 <p align="center">
   <img src="image/fastapi.png" alt="fastapi" width="100">
   <img src="https://media3.giphy.com/media/ZvU5gJBGbAwZW49M3f/200w.webp" width="100">
-  <img src="image/flask.png" alt="flask" width="80">
   <img src="image/keras.png" alt="keras" width="100">
-  <img src="image/numpy.png" alt="numpy" width="80">
   <img src="image/pandas.png" alt="pandas" width="120">
   <img src="image/scikit-learn.png" alt="scikit-learn" width="120">
+  <img src="image/flask.png" alt="flask" width="80">
+  <img src="image/numpy.png" alt="numpy" width="80">
   <img src="image/scipy.png" alt="scipy" width="100">
   <img src="image/tensorflow.png" alt="tensorflow" width="100">
 </p>
