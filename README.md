@@ -44,6 +44,7 @@
   <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
   <img src="https://media3.giphy.com/media/C8Tij3iox3coBSqVWE/200.webp" width="100">
   <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
+  <a href="https://www.tutorialspoint.com/postgresql/postgresql_python.htm" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="50" height="30"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Tools+I+Use%3A)](https://git.io/typing-svg)
