@@ -54,7 +54,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="100">
   <img src="https://i.giphy.com/media/THHeqBcZnprb9zJNnO/200.webp" width="100">
-  <img width="70" src="images/jupyter.png" title="Jupyter">
+  <img src="images/jupyter.png" width="100">
 </p>
 
 
