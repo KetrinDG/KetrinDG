@@ -64,8 +64,8 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="100">
   <img src="https://i.giphy.com/media/THHeqBcZnprb9zJNnO/200.webp" width="100">
-  <img src="image/postman.png" alt="postman" width="100">
   <img src="image/jupyter.png" alt="jupyter" width="100">
+  <img src="image/postman.png" alt="postman" width="100">
   <img src="image/anaconda.png" alt="anaconda" width="100">
 </p>
 
