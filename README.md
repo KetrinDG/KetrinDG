@@ -24,8 +24,6 @@
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KetrinDG}/count.svg" /></p> 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Languages+I+Use%3A)](https://git.io/typing-svg)
 
