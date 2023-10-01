@@ -76,10 +76,11 @@
 <a href="https://app.datacamp.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp" width="60" height="30"/> </a>
 </p>
 
-==============================================================================================================
 
-<p align="left"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="480" height="480">
-</p> <p align="center"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="480" height="480"></p> <p align="right"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="480" height="480"></p>
+========================================================================================================
+
+
+<p align="center"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="480" height="480"></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KetrinDG&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lead" height="160" /></p>
