@@ -10,6 +10,12 @@
 </picture>
 
 ************************************************************************************************************
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KetrinDG}/count.svg" /></p> 
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Find+me+on+Social+Media)](https://git.io/typing-svg)
 
@@ -19,11 +25,7 @@
 <a target="_blank" href="https://instagram.com/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
  </p>
 
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KetrinDG}/count.svg" /></p> 
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Languages+I+Use%3A)](https://git.io/typing-svg)
 
