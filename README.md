@@ -81,9 +81,9 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="300" >
-<img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="300" >
-<img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="300" >
+  <img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="200" >
+<img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="200" >
+<img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="200" >
 </p>
 
 
