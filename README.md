@@ -23,7 +23,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KetrinDG&label=Profile%20views&color=0e75b6&style=plastic" alt="lead" /> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Learning+Languages+and+Tools%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Languages+I+Use%3A)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200w.webp" width="100">
