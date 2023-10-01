@@ -11,10 +11,13 @@
 
 ************************************************************************************************************
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <a href="https://www.facebook.com/glamourycat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vlodya17" height="30" width="40" /></a>
 =======
 >>>>>>> 7fae27cbc92cca659a71a296868f487348c529a1
+=======
+>>>>>>> Stashed changes
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Find+me+on+Social+Media)](https://git.io/typing-svg)
 
 <p align="center">
