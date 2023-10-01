@@ -41,9 +41,9 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
   <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
   <img src="https://media3.giphy.com/media/C8Tij3iox3coBSqVWE/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Tools+I+Use%3A)](https://git.io/typing-svg)
@@ -75,6 +75,17 @@
 
 <a href="https://app.datacamp.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp" width="60" height="30"/> </a>
 </p>
+
+<p align="left">
+  <img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="100">
+</p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="100">
+</p>
+<p align="right">
+  <img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="100">
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KetrinDG&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lead" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KetrinDG&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="lead" height="160"/></p>
