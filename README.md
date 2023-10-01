@@ -54,7 +54,7 @@
   <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
   <img src="https://media3.giphy.com/media/C8Tij3iox3coBSqVWE/200.webp" width="100">
   <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
-  <img src="image/postgresql.png" alt="postgresql" width="100">
+  <img src="image/postgresql.png" alt="postgresql" width="80">
   <img src="image/redis.png" alt="redis" width="100">
 </p>
 
