@@ -33,7 +33,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Libraries+%26+Frameworks+I+Use%3A)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="image/fastapi.png" alt="fastapi" width="100">
   <img src="https://media3.giphy.com/media/ZvU5gJBGbAwZW49M3f/200w.webp" width="100">
+  <img src="image/flask.png" alt="flask" width="100">
+  <img src="image/keras.png" alt="keras" width="100">
+  <img src="image/numpy.png" alt="numpy" width="100">
+  <img src="image/pandas.png" alt="pandas" width="100">
+  <img src="image/scikit-learn.png" alt="scikit-learn" width="100">
+  <img src="image/scipy.png" alt="scipy" width="100">
+  <img src="image/tensorflow.png" alt="tensorflow" width="100">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Databases+I+Use%3A)](https://git.io/typing-svg)
@@ -44,7 +52,8 @@
   <img src="https://media3.giphy.com/media/V8y1y1FzxDETVUtQE4/200.webp" width="100">
   <img src="https://media3.giphy.com/media/C8Tij3iox3coBSqVWE/200.webp" width="100">
   <img src="https://media3.giphy.com/media/tAjb5pyCEBhEb8jWxC/200.webp" width="100">
-  <a href="https://www.tutorialspoint.com/postgresql/postgresql_python.htm" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="50" height="30"/></a>
+  <img src="image/postgresql.png" alt="postgresql" width="100">
+  <img src="image/redis.png" alt="redis" width="100">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&pause=1000&color=05F70A&width=435&lines=Tools+I+Use%3A)](https://git.io/typing-svg)
@@ -55,7 +64,9 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="100">
   <img src="https://i.giphy.com/media/THHeqBcZnprb9zJNnO/200.webp" width="100">
-  <img src="image/jupyter.png" alt="cloudinary" width="100">
+  <img src="image/postman.png" alt="postman" width="100">
+  <img src="image/jupyter.png" alt="jupyter" width="100">
+  <img src="image/anaconda.png" alt="anaconda" width="100">
 </p>
 
 
