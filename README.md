@@ -77,10 +77,10 @@
 </p>
 
 
-========================================================================================================
+*************************************************************************************
 
 
-<p align="center"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="480" height="480"></p>
+<p align="center"><img src="https://media3.giphy.com/media/ZuOMrNqKyYt218kKq6/200w.webp" width="300" ></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KetrinDG&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lead" height="160" /></p>
