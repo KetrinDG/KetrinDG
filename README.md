@@ -87,7 +87,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetrinDG&theme=chartreuse-dark&layout=compact)
 
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KetrinDG&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KetrinDG&theme=android-dark)](https://git.io/streak-stats)
 
