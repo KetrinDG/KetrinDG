@@ -90,3 +90,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KetrinDG&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KetrinDG&theme=android-dark)](https://git.io/streak-stats)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6aa84f&height=70&section=footer"/>
