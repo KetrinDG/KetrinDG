@@ -90,8 +90,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetrinDG&theme=chartreuse-dark&layout=compact)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KetrinDG&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KetrinDG&theme=hacker)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=KetrinDG&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KetrinDG&theme=hacker)](https://git.io/streak-stats)
+
 
 <a href="https://github.com/KetrinDG/KetrinDG"><img alt="KetrinDG's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KetrinDG&bg_color=RRGGBBAA&title_color=5acbe9&color=6aa84f&line=6aa84f&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 
