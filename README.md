@@ -87,7 +87,7 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetrinDG&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetrinDG&theme=chartreuse-dark&layout=compact)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KetrinDG&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KetrinDG&theme=hacker)](https://git.io/streak-stats)
